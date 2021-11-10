@@ -1,0 +1,81 @@
+{
+    "basics": {
+        "name": "subashini",
+        "label": "Programmer",
+        "image": "",
+        "email": "subashini@gmail.com",
+        "phone": "7010625747",
+        "summary": "A summary of subashini",
+        "location": {
+            "address": "no:346,bavisha urban homes",
+            "postalCode": "562125",
+            "city": "Bengalor",
+            "countryCode": "INDIA",
+            "region": "New delhi"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "subashini"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Company",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Anna University",
+            "area": "Software Development",
+            "studyType": "married",
+            "startDate": "2014-01-01",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "description": "Description…",
+            "highlights": [
+                "Flying Robot"
+            ],
+            "keywords": [
+                "HTML"
+            ],
+            "startDate": "2017-01-01",
+            "endDate": "2018-01-01",
+            "roles": [
+                "Team Lead"
+            ],
+            "entity": "Entity",
+            "type": "application"
+        }
+    ]
+}
